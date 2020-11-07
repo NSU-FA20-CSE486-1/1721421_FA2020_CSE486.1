@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InLabPractice</string>
+    <string name="toast">Toast</string>
+    <string name="button">Button</string>
+    <string name="count">Count</string>
+    <string name="toast_label_message">This is a toast message</string>
+    <string name="_0">0</string>
+</resources>

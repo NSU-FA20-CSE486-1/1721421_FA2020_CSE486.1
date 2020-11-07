@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">loginScreen</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="user">User</string>
+    <string name="UserImage">UserImage</string>
+</resources>

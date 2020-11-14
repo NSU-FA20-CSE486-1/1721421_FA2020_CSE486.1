@@ -1,33 +1,8 @@
-# 1234567_FA2020_CSE486.1
-Sample Repository for all work in CSE486.1
-Clone this repository, rename it, make it private, create folder structure.
+Create a new Android app with a main Activity and a second Activity.
 
-How to create your repository?
+Pass some data (a string) from the main Activity to the second using an Intent, and display that data in the second Activity.
 
-<7 Digit Student ID>_FA2020_CSE486.1
-
-For Example, if your 7 digit student ID is 1911231, then your repository will be 1911231_FA2020_CSE486.1
-
-Folder Structure:
-
-1911231_FA2020_CSE486.1
-
-  |-------- Assignments
-  
-              |------------- Assignment 1
-              
-              |------------- Assignment 2
-              
-              |------------- Assignment 3
-              
-              |------------- Assignment 4
-              
-  |-------- Android Project
-  
-              |------------- README.md
-              
-              |------------- Project Code
-              
+Send a second different bit of data back to the main Activity, also using an Intent.
                               
   
               

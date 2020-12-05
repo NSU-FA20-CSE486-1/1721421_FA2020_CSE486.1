@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\CSE486\\1721421_FA2020_CSE486.1\\Assignments\\Lab\\Lab 06 - December 03  2020 Thursday\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "T:\\Users\\tawfi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c5ae7e7d7fa1b23e8870d7fbdf09e3ad\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "T:\\Users\\tawfi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0424ecca478af2512e89c82b2ce843c2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

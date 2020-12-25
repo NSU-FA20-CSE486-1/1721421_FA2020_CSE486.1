@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secret Chat</string>
+    <string name="encrypt_amp_send"><![CDATA[Send Text]]></string>
+    <string name="decrypt">Decryption</string>
+    <string name="secret">Encryption Key</string>
+    <string name="message">Your Text Here</string>
+    <string name="phone">Mobile No.</string>
+    <string name="encryption">Encryption</string>
+</resources>

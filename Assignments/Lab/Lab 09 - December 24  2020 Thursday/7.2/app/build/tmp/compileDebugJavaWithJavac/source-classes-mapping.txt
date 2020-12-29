@@ -1,0 +1,8 @@
+NSU/CSE486/whowroteit/BuildConfig.java
+ NSU.CSE486.whowroteit.BuildConfig
+NSU/CSE486/whowroteit/MainActivity.java
+ NSU.CSE486.whowroteit.MainActivity
+NSU/CSE486/whowroteit/NetworkUtilities.java
+ NSU.CSE486.whowroteit.NetworkUtilities
+NSU/CSE486/whowroteit/BookLoader.java
+ NSU.CSE486.whowroteit.BookLoader

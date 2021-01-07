@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4:28.0.0-alpha1@aar">
+    <CLASSES>
+      <root url="file://C:/Gradle Directory/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha1.aar/6d360a5f38ec700dcc68e2c4313f189f/res" />
+      <root url="file://C:/Gradle Directory/caches/transforms-2/files-2.1/77f6187d109c4f18f5d732c6700353f8/support-v4-28.0.0-alpha1/res" />
+      <root url="file://C:/Gradle Directory/caches/transforms-2/files-2.1/77f6187d109c4f18f5d732c6700353f8/support-v4-28.0.0-alpha1/AndroidManifest.xml" />
+      <root url="jar://C:/Gradle Directory/caches/transforms-2/files-2.1/77f6187d109c4f18f5d732c6700353f8/support-v4-28.0.0-alpha1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Gradle Directory/caches/modules-2/files-2.1/com.android.support/support-v4/28.0.0-alpha1/5b8f86fea035328fc9e8c660773037a3401ce25f/support-v4-28.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

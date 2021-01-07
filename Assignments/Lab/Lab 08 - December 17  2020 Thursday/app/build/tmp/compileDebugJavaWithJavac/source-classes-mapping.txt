@@ -1,0 +1,15 @@
+NSU/CSE486/TabExp/TabFragment2.java
+ NSU.CSE486.TabExp.TabFragment2
+NSU/CSE486/TabExp/PagerAdapter.java
+ NSU.CSE486.TabExp.PagerAdapter
+NSU/CSE486/TabExp/MainActivity.java
+ NSU.CSE486.TabExp.MainActivity
+ NSU.CSE486.TabExp.MainActivity$1
+NSU/CSE486/TabExp/TabFragment1.java
+ NSU.CSE486.TabExp.TabFragment1
+NSU/CSE486/TabExp/BuildConfig.java
+ NSU.CSE486.TabExp.BuildConfig
+NSU/CSE486/TabExp/TabFragment4.java
+ NSU.CSE486.TabExp.TabFragment4
+NSU/CSE486/TabExp/TabFragment3.java
+ NSU.CSE486.TabExp.TabFragment3

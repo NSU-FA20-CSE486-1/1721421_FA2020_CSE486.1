@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\CSE486\1721421_FA2020_CSE486.1\Assignments\Lab\Lab 08 - December 17  2020 Thursday\app\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\CSE486\1721421_FA2020_CSE486.1\Assignments\Lab\Lab 08 - December 17  2020 Thursday\app\src\debug\shaders"/></dataSet></merger>

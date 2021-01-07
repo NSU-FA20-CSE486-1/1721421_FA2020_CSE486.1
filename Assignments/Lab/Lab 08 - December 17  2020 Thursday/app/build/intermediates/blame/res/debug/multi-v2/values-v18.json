@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\CSE486\\1721421_FA2020_CSE486.1\\Assignments\\Lab\\Lab 08 - December 17  2020 Thursday\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Gradle Directory\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6dfc403d554452e5ec21e4ba40feebe5\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

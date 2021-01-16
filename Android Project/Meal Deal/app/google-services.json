@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029743462468",
+    "project_id": "meal-deal-e7b48",
+    "storage_bucket": "meal-deal-e7b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029743462468:android:252ff28271c0c00d895411",
+        "android_client_info": {
+          "package_name": "NSU.CSE486.MealDeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029743462468-csb9pdlq4oan7inc6a78r90l1vhf9nm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7cgiVkxyhadCa15E4uGm_0hatf4Ra4vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029743462468-csb9pdlq4oan7inc6a78r90l1vhf9nm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

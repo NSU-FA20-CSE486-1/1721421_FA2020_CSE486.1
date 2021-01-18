@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1029743462468",
+    "firebase_url": "https://meal-deal-e7b48-default-rtdb.firebaseio.com",
     "project_id": "meal-deal-e7b48",
     "storage_bucket": "meal-deal-e7b48.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1029743462468-3lh41f5dkmrds4seck7rn37kefmhctm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "NSU.CSE486.MealDeal",
+            "certificate_hash": "8c90512cee4baf58832cd5245c2160ce4b0cdcd1"
+          }
+        },
         {
           "client_id": "1029743462468-csb9pdlq4oan7inc6a78r90l1vhf9nm5.apps.googleusercontent.com",
           "client_type": 3

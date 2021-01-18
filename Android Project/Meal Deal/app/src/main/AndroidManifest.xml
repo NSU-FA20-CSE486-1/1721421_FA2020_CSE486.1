@@ -9,13 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MealDeal">
-        <activity android:name=".DeliveryBoyReg"></activity>
+        <activity android:name=".ChefReg"></activity>
+        <activity android:name=".ChefVerifyPhone" />
+        <activity android:name=".DeliveryBoyReg" />
         <activity android:name=".DeliveryBoyLoginphone" />
         <activity android:name=".DeliveryBoyLogin" />
         <activity android:name=".CustomerReg" />
         <activity android:name=".CustomerLoginphone" />
         <activity android:name=".CustomerLogin" />
-        <activity android:name=".ChefReg" />
         <activity android:name=".Chefloginphone" />
         <activity android:name=".Cheflogin" />
         <activity android:name=".Stakeholder" />

@@ -1,0 +1,4 @@
+NSU/CSE486/AlarmTimeCC/MainActivity.java
+ NSU.CSE486.AlarmTimeCC.MainActivity
+NSU/CSE486/AlarmTimeCC/BuildConfig.java
+ NSU.CSE486.AlarmTimeCC.BuildConfig

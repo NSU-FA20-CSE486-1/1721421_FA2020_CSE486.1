@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:extensions:1.1.1@aar">
+    <CLASSES>
+      <root url="file://C:/Gradle Directory/caches/transforms-1/files-1.1/extensions-1.1.1.aar/f2e686fccd90c491c0bf507733a927ce/res" />
+      <root url="file://C:/Gradle Directory/caches/transforms-2/files-2.1/8a42013e1b197366d48ba27cc1048011/extensions-1.1.1/res" />
+      <root url="file://C:/Gradle Directory/caches/transforms-2/files-2.1/8a42013e1b197366d48ba27cc1048011/extensions-1.1.1/AndroidManifest.xml" />
+      <root url="jar://C:/Gradle Directory/caches/transforms-2/files-2.1/8a42013e1b197366d48ba27cc1048011/extensions-1.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Gradle Directory/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.1.1/d654e6aa2f4a7c33f2dfe6c8465ee9ad2a81c1aa/extensions-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

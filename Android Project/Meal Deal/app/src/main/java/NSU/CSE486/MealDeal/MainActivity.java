@@ -1,10 +1,6 @@
 package NSU.CSE486.MealDeal;
 
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.content.DialogInterface;
@@ -14,6 +10,10 @@ import android.os.Handler;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -73,6 +73,12 @@ public class MainActivity extends AppCompatActivity {
                                     finish();
 
                                 }
+                                if(role.equals("Customer")){
+                                    startActivity(new Intent(MainActivity.this, CustomerFoodPanel_BottomNavigation.class));
+                                    finish();
+
+                                }
+
                             }
 
                             @Override

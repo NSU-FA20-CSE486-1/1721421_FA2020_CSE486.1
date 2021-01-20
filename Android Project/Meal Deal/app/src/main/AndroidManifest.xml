@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="NSU.CSE486.MealDeal">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
     <application
         android:allowBackup="true"
@@ -9,19 +11,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MealDeal">
-        <activity android:name=".ChefReg"></activity>
+
+        <activity android:name=".ChefFoodPanel.ChefUploadProduct"></activity>
+<!--        <activity android:name=".Delivery_sendotp" />-->
+<!--        <activity android:name=".DeliveryForgotPassword" />-->
+<!--        <activity android:name=".DeliveryFoodPanel_BottomNavigation" />-->
+<!--        <activity android:name=".Delivery_VerifyPhone" />-->
+        <activity android:name=".CustomerForgetPassword" />
+        <activity android:name=".CustomerFoodPanel_BottomNavigation" />
+        <activity android:name=".CustomerOTP" />
         <activity android:name=".ChefVerifyPhone" />
+        <activity android:name=".ChefOTP" />
+        <activity android:name=".ChefForgetPassword" />
+        <activity android:name=".ChefFoodPanel_BottomNavigation" />
         <activity android:name=".DeliveryBoyReg" />
         <activity android:name=".DeliveryBoyLoginphone" />
         <activity android:name=".DeliveryBoyLogin" />
         <activity android:name=".CustomerReg" />
         <activity android:name=".CustomerLoginphone" />
         <activity android:name=".CustomerLogin" />
+        <activity android:name=".ChefReg" />
         <activity android:name=".Chefloginphone" />
         <activity android:name=".Cheflogin" />
         <activity android:name=".Stakeholder" />
         <activity android:name=".Menu" />
+        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat"/>
         <activity android:name=".MainActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

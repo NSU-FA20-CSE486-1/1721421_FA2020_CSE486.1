@@ -13,10 +13,10 @@
         android:theme="@style/Theme.MealDeal">
 
         <activity android:name=".ChefFoodPanel.ChefUploadProduct"></activity>
-<!--        <activity android:name=".Delivery_sendotp" />-->
-<!--        <activity android:name=".DeliveryForgotPassword" />-->
-<!--        <activity android:name=".DeliveryFoodPanel_BottomNavigation" />-->
-<!--        <activity android:name=".Delivery_VerifyPhone" />-->
+<!--        <activity android:name=".DeliveryBoyOTP" />-->
+<!--        <activity android:name=".DeliveryBoyForgetPassword" />-->
+<!--        <activity android:name=".DeliveryBoyFoodPanel_BottomNavigation" />-->
+<!--        <activity android:name=".DeliveryBoy_VerifyPhone" />-->
         <activity android:name=".CustomerForgetPassword" />
         <activity android:name=".CustomerFoodPanel_BottomNavigation" />
         <activity android:name=".CustomerOTP" />

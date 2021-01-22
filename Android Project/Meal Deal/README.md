@@ -1,2 +1,101 @@
-Meal Deal is an on-demand food delivery application that allows customers to order homecooked food from home chefs.
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 7.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+<a href="#gdcalert7">alert7</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+**Introduction:**
+
+You never go wrong with homecooked food. 
+
+With Meal Deal, you can order fresh and hygienic homecooked food, whatever and whenever you want. If you love cooking and want to make money selling your food, Meal Deal is the right choice for you as well!
+
+If you got some free time and wondering what to do, don’t worry, we got your back. With Meal Deal, you can sign up as a delivery boy and start delivering food in your area.
+
+**Features: **
+
+
+
+*   Login/Register as Chef, Customer, or Delivery Boy
+*   Login with Email, and Phone
+*   OTP Verification
+*   Upload Product as Chef
+*   Update profile as Chef and Customer
+*   Cart for Customer
+*   Track Orders as Customer
+
+**Snapshots:**
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.jpg "image_tooltip")
+
+
+**Data Management:**
+
+I used Firebase for Real-time database, cloud storage, and authentication. 
+
+**Snapshots:**
+
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.jpg "image_tooltip")
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.jpg "image_tooltip")
+
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image6.jpg "image_tooltip")
+
+
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image7.jpg "image_tooltip")
+
+
+		Figure: Firebase used for Realtime Database, Authentication, and Storage
+
+**Design Pattern:**
+
+I adopted MVC architecture on the client-side. However, in order to enhance the overall infrastructure, I used Singleton. For example, I choose Singleton Pattern to implement Fragment and Authentication.
+
+**Roadblocks:**
+
+**UI/UX:** The first challenge I encountered was Android's multi-screen size and ratio. There is a major drawback with importing the UI from Figma. The Android code generated by Figma is not sufficient to be implemented in the real application. 'Drawble' export doesn't fix the problem. I had to use default drawables to solve this problem.
+
+**Firebase: **The next issue I faced was with Firebase authentication. At times, the application couldn’t fetch data from the real-time database. Moreover, in the upload product page on Chef’s end, I initially confronted a problem that displayed that the attempt of uploading the product to Firebase wasn’t successful, later on, I could solve this problem by changing the dependencies.
+
+**Android Emulator**: Android emulator occupies a lot of memory space, and makes the device slower. After a certain amount of time, the emulator will display a 'System UI' dialog box to stop running. I had to spend several hours debugging my code and later I discovered that the error worked perfectly on the phone, but it was crashing on the emulator.   

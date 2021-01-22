@@ -66,7 +66,7 @@ public class Cheflogin extends AppCompatActivity {
 
                                     if(Fauth.getCurrentUser().isEmailVerified()){
                                         mDialog.dismiss();
-                                        Toast.makeText(Cheflogin.this, "Congratulation! You Have Successfully Login", Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(Cheflogin.this, "Congratulation! You Have Successfully Logged In", Toast.LENGTH_SHORT).show();
                                         Intent Z = new Intent(Cheflogin.this,ChefFoodPanel_BottomNavigation.class);
                                         startActivity(Z);
                                         finish();
